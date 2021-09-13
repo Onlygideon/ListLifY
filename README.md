@@ -4,7 +4,7 @@
 
 ListLifY is a Task Manager App 
 
-This is a thorough Javascript, Html and MaterializeCss Program Application used in creating Task Lists and Managing it. 
+This is a thorough Javascript, Html and MaterializeCss web app used in creating Task Lists and Managing it. 
 
 This app is also built with a Dynamic document.body background layout
 
